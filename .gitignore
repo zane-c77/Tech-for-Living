@@ -7,8 +7,7 @@ feature-images-*.png
 pricing-*.png
 features-*.png
 
-# Large assets
-*.mp4
+# Large assets — mp4 excluded from local deploy but tracked in git for Pages build
 mrendorn-*.png
 mrfx*.png
 mrhv*.png
