@@ -1,0 +1,33 @@
+# Screenshots
+hero-*.png
+*-check.png
+*-pass-*.png
+mrk*.png
+feature-images-*.png
+pricing-*.png
+features-*.png
+
+# Large assets
+*.mp4
+mrendorn-*.png
+mrfx*.png
+mrhv*.png
+mrhwg*.png
+mrhwfjs9*.png
+mrk9kt3e*.png
+mrk8flb2*.png
+mrkaekxi*.png
+mrk7l4t3*.png
+mrk702hk*.png
+mrk6jhcy*.png
+mrk6jbdb*.png
+mrk55zd0*.png
+
+# Temp / tool files
+.wranglerignore
+techconnect-sme-hero.zip
+index-new.html
+critique.json
+.tools/
+.tunnel/
+__pycache__/
